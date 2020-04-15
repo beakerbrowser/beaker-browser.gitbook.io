@@ -52,8 +52,3 @@ Hyperdrives use peer-to-peer networking. You can "seed" other people's hyperdriv
 * [Frontends \(.ui folder\)](developers/frontends-.ui-folder.md). A tool to inject HTML output into every browsed resource.
 * [.Goto Files](developers/.goto-files.md). Files which act like shortcuts.
 
-### Tutorials
-
-* [Building a Self-Modifying Site](tutorials/tutorial-1.-building-a-wiki-site.md). An introduction to building on Hyperdrive.
-* [Building a CMS "Frontend"](tutorials/tutorial-2.-building-a-wiki-frontend.md). A tutorial for using Frontends.
-

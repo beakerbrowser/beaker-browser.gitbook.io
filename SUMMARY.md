@@ -47,11 +47,6 @@
 * [Frontends \(.ui folder\)](developers/frontends-.ui-folder.md)
 * [.Goto Files](developers/.goto-files.md)
 
-## Tutorials
-
-* [Building a Self-Modifying Site](tutorials/tutorial-1.-building-a-wiki-site.md)
-* [Building a CMS "Frontend"](tutorials/tutorial-2.-building-a-wiki-frontend.md)
-
 ## Incomplete docs
 
 * [Services and SRPC](incomplete-docs/services-and-srpc/README.md)
