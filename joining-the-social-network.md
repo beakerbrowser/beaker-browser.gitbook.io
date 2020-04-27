@@ -12,7 +12,7 @@ In this guide, we're going to personalize your profile drive, find some other us
 
 During Beaker's setup, you filled out a name, picture, and bio for your profile. You can visit your profile drive by clicking your picture at the top right of the UI.
 
-TODO picture
+![](.gitbook/assets/profile-button.png)
 
 You will find your profile drive is very plain. That's because we want you to build it! \(Frankly it was a cost-cutting measure but don't tell anyone.\) [Open the editor](beginner/editor.md) to see the source code:
 
