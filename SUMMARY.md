@@ -47,6 +47,10 @@
 * [Frontends \(.ui folder\)](developers/frontends-.ui-folder.md)
 * [.Goto Files](developers/.goto-files.md)
 
+## Help
+
+* [Hole-punchability](help/hole-punchability.md)
+
 ## Incomplete docs
 
 * [Services and SRPC](incomplete-docs/services-and-srpc/README.md)
