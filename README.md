@@ -2,11 +2,9 @@
 
 Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 
-### What is a Hyperdrive?
+{% page-ref page="getting-started-with-beaker.md" %}
 
-"Hyperdrives" are folders you host from your computer. They contain web pages which you can browse and edit. You create and share Hyperdrives using Beaker.
-
-Hyperdrives use peer-to-peer networking. You can "seed" other people's hyperdrives to help keep them online and contribute bandwidth.
+{% page-ref page="joining-the-social-network.md" %}
 
 ### Basics
 

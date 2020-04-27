@@ -1,20 +1,20 @@
-# Seeding Hyperdrives
+# Hosting Hyperdrives
 
-You can help keep other people's hyperdrives online by contributing bandwidth. This is called "seeding."
+You can help keep other people's hyperdrives online by contributing bandwidth. This is called "hosting."
 
-To seed a drive, visit the drive click on the peer-count on the right side of the URL bar. You will see a toggle. Switch it to the green "on" state.
+To host a drive, visit the drive click on the peer-count on the right side of the URL bar. You will see a toggle. Switch it to the green "on" state.
 
 ![](../.gitbook/assets/seed-drive.png)
 
-You can turn off seeding by toggling the button again.
+You can turn off hosting by toggling the button again.
 
-## Managing Seeded Hyperdrives
+## Managing Hosted Hyperdrives
 
-To see the drives you're currently seeding, open a new tab and click the ellipsis icon underneath your pinned bookmarks. In the menu, click the "Seeding" link.
+To see the drives you're currently hosting, open a new tab and click the ellipsis icon underneath your pinned bookmarks. In the menu, click the "hosting" link.
 
 ![](../.gitbook/assets/seeding-nav.png)
 
-You can stop seeding drives in that listing by right clicking on them and selecting "stop seeding."
+You can stop hosting drives in that listing by right clicking on them and selecting "stop hosting."
 
 ![](../.gitbook/assets/stop-seeding.png)
 

@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Getting Started with Beaker](getting-started-with-beaker.md)
+* [Joining the Social Network](joining-the-social-network.md)
 * [Why use Beaker?](why-use-beaker.md)
 
 ## Beginner
@@ -12,7 +14,7 @@
 * [Creating Files and Folders](beginner/creating-files-and-folders.md)
 * [Importing and Exporting Files](beginner/importing-and-exporting-files.md)
 * [Sharing Hyperdrives](beginner/sharing-hyperdrives.md)
-* [Seeding Hyperdrives](beginner/seeding-hyperdrives.md)
+* [Hosting Hyperdrives](beginner/seeding-hyperdrives.md)
 
 ## Intermediate
 
