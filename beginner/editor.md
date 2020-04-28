@@ -18,7 +18,7 @@ To save your work, press the "Save" button or press `Cmd+S` \(MacOS\) or `Ctrl+S
 
 ## Navigating Files in the Hyperdrive
 
-To view a files listing for the current Hyperdrive, click the folder icon in the top left.
+To view a files listing for the current Hyperdrive, click the ellispis icon in the top left.
 
 ![](../.gitbook/assets/editor-list-files.png)
 

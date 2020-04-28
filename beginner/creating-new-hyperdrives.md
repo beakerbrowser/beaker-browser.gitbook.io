@@ -6,7 +6,7 @@ Only the creator of a Hyperdrive can change its files. Visitors can only view th
 
 To create a new Hyperdrive, click the hamburger menu on the top right of the browser.
 
-![](../.gitbook/assets/open-browser-menu.png)
+![](../.gitbook/assets/open-browser-menu%20%281%29.png)
 
 Then select "New Hyperdrive..."
 

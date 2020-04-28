@@ -6,7 +6,7 @@ Visit your hyperdrive and [open the editor](editor.md). Then expand the files li
 
 ![Open the files listing by clicking the folder icon.](../.gitbook/assets/editor-list-files.png)
 
-Right click in the files listing \(but not on a file\) and select "Import files" to import or "Export files" to export all files in the drive.
+Right click in the files listing \(but not on a file\) and select "Import file\(s\)" or "Import folder\(s\)" to import files or folders, or "Export files" to export all files in the drive.
 
 ![](../.gitbook/assets/editor-import-files.png)
 
