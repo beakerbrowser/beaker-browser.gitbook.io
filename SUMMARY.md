@@ -14,7 +14,7 @@
 * [Creating Files and Folders](beginner/creating-files-and-folders.md)
 * [Importing and Exporting Files](beginner/importing-and-exporting-files.md)
 * [Sharing Hyperdrives](beginner/sharing-hyperdrives.md)
-* [Hosting Hyperdrives](beginner/seeding-hyperdrives.md)
+* [Hosting Hyperdrives](beginner/hosting-hyperdrives.md)
 
 ## Intermediate
 

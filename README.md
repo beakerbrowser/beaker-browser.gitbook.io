@@ -15,7 +15,7 @@ Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 * [Creating Files and Folders](beginner/creating-files-and-folders.md)
 * [Importing and Exporting Files](beginner/importing-and-exporting-files.md)
 * [Sharing Hyperdrives](beginner/sharing-hyperdrives.md)
-* [Seeding Hyperdrives](beginner/seeding-hyperdrives.md)
+* [Hosting Hyperdrives](beginner/hosting-hyperdrives.md)
 
 ### Intermediate
 

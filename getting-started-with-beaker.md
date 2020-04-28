@@ -25,7 +25,7 @@ Peer-to-peer means that you host data directly from your device. You can use ser
 One fun attribute of peer-to-peer is "co-hosting." This is where you help keep a Hyperdrive online by storing the data and contributing bandwidth to other users. It happens temporarily when you visit a Hyperdrive, but you can turn it on permanently for sites you like.
 
 {% hint style="info" %}
-**You can "host" other people's hyperdrives** to help keep them online and contribute bandwidth. [Learn more](beginner/seeding-hyperdrives.md).
+**You can "host" other people's hyperdrives** to help keep them online and contribute bandwidth. [Learn more](beginner/hosting-hyperdrives.md).
 {% endhint %}
 
 ### What should I learn next?
