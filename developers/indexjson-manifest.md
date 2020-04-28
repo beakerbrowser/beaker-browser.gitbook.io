@@ -29,3 +29,5 @@ A string providing a description of the drive's contents.
 
 A string identifying the URL of a drive which this drive has forked.
 
+.content
+

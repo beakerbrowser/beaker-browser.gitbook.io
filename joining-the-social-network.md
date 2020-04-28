@@ -89,7 +89,7 @@ Now your profile drive will read your name and bio on load and display it on the
 
 ### Finding other users
 
-It's feeling pretty lonely in here. Everybody has [an address book](intermediate/your-address-book.md). Let's find some people to add to it!
+It's feeling pretty lonely in here! Let's find some people to add to your [address book](intermediate/your-address-book.md).
 
 Beaker maintains a [user directory](https://userlist.beakerbrowser.com/). You can find a link to it in the top right of the UI.
 
@@ -113,8 +113,6 @@ After you've signed in, click "Add Your Listing." You'll be prompted to select y
 
 Now that you've added some people to [your address book](intermediate/your-address-book.md), let's setup a social media feed.
 
-![](.gitbook/assets/my-feed.png)
-
 [Open the Microblog Feed Template](https://beaker.dev/docs/templates/microblog-feed/) and click "Create Drive from this Template." Change the title if you like and click "Create Drive."
 
 ![](.gitbook/assets/create-my-feed.png)
@@ -124,6 +122,8 @@ This will create a Hyperdrive _which you own_. You can [edit the source](beginne
 ![](.gitbook/assets/my-feed-not-signed-in.png)
 
 After you select your profile, you'll see posts from people in your address book. Any posts you create will be written to your profile drive under the `/microblog` folder. Posts are markdown by default \(.md\) but you can posts .txt, HTML, images, video, and audio. \(The HTML goes in an iframe just to be safe.\)
+
+![](.gitbook/assets/my-feed.png)
 
 ### You're now hooked in!
 
