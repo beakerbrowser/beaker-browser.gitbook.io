@@ -16,7 +16,7 @@ During Beaker's setup, you filled out a name, picture, and bio for your profile.
 
 You will find your profile drive is very plain. That's because we want you to build it! \(Frankly it was a cost-cutting measure but don't tell anyone.\)
 
-![Your profile drive will look something like this](.gitbook/assets/social-network-profile-1.png)
+![](.gitbook/assets/social-network-profile-1.png)
 
 [Open the editor](beginner/editor.md) to see the source code:
 
@@ -60,7 +60,7 @@ Let's add a button! This button will help other users add your profile drive to 
 
 Now your visitors have a quick way to follow your site! \([Read more about the beaker.contacts API](apis/beaker.contacts.md).\)
 
-![Fancy new button!](.gitbook/assets/social-network-profile-2.png)
+![](.gitbook/assets/social-network-profile-2.png)
 
 Your profile name, bio, and picture [can be changed using the drive properties](beginner/changing-a-drive-title-or-thumb.md). The profile page won't update automatically, but we can add that!
 
