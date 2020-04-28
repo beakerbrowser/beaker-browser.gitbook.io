@@ -29,5 +29,7 @@ A string providing a description of the drive's contents.
 
 A string identifying the URL of a drive which this drive has forked.
 
-.content
+### .csp
+
+A string specifying the [Content-Security Policy header](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) to use in all drive resources.
 
