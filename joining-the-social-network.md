@@ -113,6 +113,10 @@ After you've signed in, click "Add Your Listing." You'll be prompted to select y
 
 Now that you've added some people to [your address book](intermediate/your-address-book.md), let's setup a social media feed.
 
+{% hint style="info" %}
+This feed app will be another Hyperdrive which reads and writes posts from your profile drive. It lives separately from your profile. You can share it if you want, but everybody can create their own feed app.
+{% endhint %}
+
 [Open the Microblog Feed Template](https://beaker.dev/docs/templates/microblog-feed/) and click "Create Drive from this Template." Change the title if you like and click "Create Drive."
 
 ![](.gitbook/assets/create-my-feed.png)
