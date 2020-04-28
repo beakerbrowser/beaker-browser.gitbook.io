@@ -2,7 +2,7 @@
 
 Sometimes it's useful to copy files between hyperdrives. This may be particularly useful after [forking a hyperdrive](forking-hyperdrives.md) and making some changes.
 
-To open the "Compare and Merge" interface, navigate to your hyperdrive, right click to open the context menu, and select "Diff / Merge."
+To open the "Compare and Merge" interface, navigate to your hyperdrive, click the blue site-info button on the left of the URL, go to the "Forks" submenu and click "Diff / Merge Original".
 
 ![](../.gitbook/assets/menu-diff-merge.png)
 

@@ -20,7 +20,6 @@
 
 * [Your Profile Drive](intermediate/your-profile-drive.md)
 * [Your Address Book](intermediate/your-address-book.md)
-* [Your Feed](intermediate/your-feed.md)
 * [Your System Drive](intermediate/your-system-drive.md)
 
 ## Advanced
@@ -28,7 +27,6 @@
 * [Webterm](advanced/webterm.md)
 * [Creating Mounts](advanced/creating-mounts.md)
 * [Editing File Metadata](advanced/editing-file-metadata.md)
-* [Cloning Hyperdrives](advanced/cloning-hyperdrives.md)
 * [Forking Hyperdrives](advanced/forking-hyperdrives.md)
 * [Comparing and Merging Hyperdrives](advanced/comparing-and-merging-hyperdrives.md)
 

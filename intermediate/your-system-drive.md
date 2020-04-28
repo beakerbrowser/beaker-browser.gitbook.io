@@ -2,7 +2,7 @@
 
 Beaker automatically creates a private "System Drive" for storing your private information. It contains your saved hyperdrives, addressbook, bookmarks, webterm commands, and more.
 
-You can find the drive by opening the browser menu and selecting "My System Drive."
+You can find the drive by opening the browser menu, clicking "My Library," and selecting "My System Drive."
 
 ![](../.gitbook/assets/browser-menu-system-drive.png)
 

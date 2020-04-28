@@ -11,7 +11,7 @@ You may want to fork a drive when you want
 
 ## Creating Forks
 
-To fork hyperdrive, click the blue address button on the left of the URL bar. Then click "Fork Drive."
+To fork hyperdrive, click the blue address button on the left of the URL bar. Then click "Tools" and then "Fork Drive."
 
 ![](../.gitbook/assets/fork-drive.png)
 
@@ -25,13 +25,11 @@ When visiting a fork, you will see the fork label in the site-info button of the
 
 ![Viewing a fork labeled &quot;my-fork.&quot;](../.gitbook/assets/fork-site-info.png)
 
-To view all forks of a site, open the "site info" sidepanel by clicking the "site info" button in the toolbar.
-
-![](../.gitbook/assets/site-info-button.png)
-
-From the site info panel you can see a list of available forks. You can navigate between them and the original, delete them, create new forks, and "detach" a fork \(which causes it to unlink from the original\).
+To view all forks of a site, click the site-info button and click the "Forks" submenu.
 
 ![](../.gitbook/assets/site-info-forks.png)
+
+From the site info panel you can see a list of available forks. You can navigate between them and the original, delete them, and create new forks.
 
 You can view the forks of a hyperdrive in "My Drives" by clicking the fork number in the listing.
 

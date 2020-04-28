@@ -21,7 +21,6 @@ Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 
 * [Your Profile Drive](intermediate/your-profile-drive.md)
 * [Your Address Book](intermediate/your-address-book.md)
-* [Your Feed](intermediate/your-feed.md)
 * [Your System Drive](intermediate/your-system-drive.md)
 
 ### Advanced
@@ -29,7 +28,6 @@ Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 * [Webterm](advanced/webterm.md). Beaker's terminal environment.
 * [Creating Mounts](advanced/creating-mounts.md)
 * [Editing File Metadata](advanced/editing-file-metadata.md)
-* [Cloning Hyperdrives](advanced/cloning-hyperdrives.md)
 * [Forking Hyperdrives](advanced/forking-hyperdrives.md)
 * [Comparing and Merging Hyperdrives](advanced/comparing-and-merging-hyperdrives.md)
 

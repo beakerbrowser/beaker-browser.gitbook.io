@@ -16,7 +16,7 @@ To add a contact, click the "+ New Contact" button.
 
 ![](../.gitbook/assets/add-contact-dialog.png)
 
-Enter the URL of your new contact's [Profile Drive](your-profile-drive.md) then click "Save." \(You'll need to ask your friend for their URL or find it in a directory.\)
+Enter the URL of your new contact's [Profile Drive](your-profile-drive.md) then click "Save." \(You'll need to ask your friend for their URL or [find it in a directory](https://userlist.beakerbrowser.com/).\)
 
 Applications can ask for individual contacts or to read your entire address book. See the [beaker.contacts](../apis/beaker.contacts.md) API.
 
