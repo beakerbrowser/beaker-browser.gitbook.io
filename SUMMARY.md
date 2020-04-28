@@ -35,6 +35,7 @@
 * [beaker.capabilities](apis/beaker.capabilities.md)
 * [beaker.contacts](apis/beaker.contacts.md)
 * [beaker.hyperdrive](apis/beaker-hyperdrive.md)
+* [beaker.markdown](apis/beaker.markdown.md)
 * [beaker.peersockets](apis/beaker.peersockets.md)
 * [beaker.shell](apis/beaker-shell.md)
 * [beaker.terminal](apis/beaker.terminal.md)
