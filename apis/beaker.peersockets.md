@@ -6,7 +6,21 @@ description: This API sends and receives messages over hyperdrive connections
 
 Peersockets enable you to send and receive messages to peers on a hyperdrive.
 
-You use peersockets by joining "topics" which are string IDs for a messaging channel. These topics are specific to each hyperdrive. Every peer has a "peer id." You can get the current peers by calling `watch()` and handling the "join" and "leave" events.
+### Technical background
+
+Hyperdrive establishes connections between users to send drive-data. Peersockets piggybacks on those connections by creating additional message-channels.
+
+The peersocket channel is sepated into "topics" which are string IDs. You choose to handle to messages in a topic by "joining" the topic. If you don't join a topic, your device will still receive the messages, but they'll be discarded.
+
+{% hint style="info" %}
+Note: topics are specific to a hyperdrive. You can only send messages to peers connected to the same hyperdrive.
+{% endhint %}
+
+Every peer has a "peer id" assigned. You send messages to specific peers by using their assigned peer id. You can get the current peers by calling `watch()` and handling the "join" and "leave" events.
+
+{% hint style="info" %}
+Peer IDs are created for the network session and will not persist.
+{% endhint %}
 
 ### Example usage
 
