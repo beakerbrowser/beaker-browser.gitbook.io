@@ -1,6 +1,6 @@
 # Getting Started with Beaker
 
-Welcome! Beaker is a peer-to-peer browser for Web hackers. It includes a bunch of tools that a web-hacker might want:
+Welcome! Beaker is a peer-to-peer browser for Web hackers. It includes a bunch of tools:
 
 * [Instant Website creation](beginner/creating-new-hyperdrives.md)
 * [A builtin editor](beginner/editor.md)
@@ -20,7 +20,7 @@ Beaker uses a peer-to-peer protocol called Hyperdrive. "Hyperdrives" are like we
 **"Hyperdrives" are folders you host from your computer.** They contain web pages which you can browse and edit. You create and share Hyperdrives using Beaker. [Learn more](beginner/creating-new-hyperdrives.md).
 {% endhint %}
 
-Peer-to-peer means that you host data directly from your device. You can use services, but a lot of applications and use-cases don't need them!
+Peer-to-peer means that you host data directly from your device.
 
 One fun attribute of peer-to-peer is "co-hosting." This is where you help keep a Hyperdrive online by storing the data and contributing bandwidth to other users. It happens temporarily when you visit a Hyperdrive, but you can turn it on permanently for sites you like.
 
