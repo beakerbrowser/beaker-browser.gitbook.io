@@ -109,7 +109,7 @@ To add yourself to the directory, click "Sign in via Twitter." You'll be directe
 
 After you've signed in, click "Add Your Listing." You'll be prompted to select your profile drive. Do that and your profile will be added!
 
-### Creating your social-media feed
+### Setup your feed app
 
 Now that you've added some people to [your address book](intermediate/your-address-book.md), let's setup a social media feed.
 
@@ -117,7 +117,7 @@ Now that you've added some people to [your address book](intermediate/your-addre
 
 ![](.gitbook/assets/create-my-feed.png)
 
-This will create a Hyperdrive _which you own_. You can [edit the source](beginner/editor.md) and make any change you want -- which you might want to do, because this thing is kind of ugly.
+This will create a Hyperdrive app _which you own_. You can [edit the source](beginner/editor.md) and make any change you want -- which you might want to do, because this thing is kind of ugly.
 
 ![](.gitbook/assets/my-feed-not-signed-in.png)
 
@@ -127,9 +127,13 @@ After you select your profile, you'll see posts from people in your address book
 
 ### You're now hooked in!
 
-You can make posts and see posts from your network, _and_ you can hack the social media feed app to change the styles and add new features. Of course, you might want to find a feed app somebody else made so then it's their headache. The good news is: your data will transfer between the apps! P2P!
+You can make posts and see posts from your network, _and_ you can hack the social media feed app to change the styles and add new features.
 
-This whole network is an experiment to see what happens when users are put in control of the applications. We're going to help guide things, but we're also going to stay hands-off when possible. It might get a little messy, but we hope you'll have some fun!
+Of course, you might want to find a feed app somebody else made so then it's their headache. The good news is: your data will transfer between the apps!
+
+{% hint style="info" %}
+This network is an experiment to see what happens when users are put in control of the applications. We're going to help guide things, but we're also going to stay hands-off when possible. It might get a little messy, but we hope you'll have some fun!
+{% endhint %}
 
 ### What next?
 
