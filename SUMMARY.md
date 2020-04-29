@@ -54,11 +54,3 @@
 
 ## Incomplete docs
 
-* [Services and SRPC](incomplete-docs/services-and-srpc/README.md)
-  * [Overview](incomplete-docs/services-and-srpc/overview.md)
-  * [SRPC protocol](incomplete-docs/services-and-srpc/srpc-protocol.md)
-  * [Cloud account services](incomplete-docs/services-and-srpc/cloud-account-services.md)
-  * [User identity services](incomplete-docs/services-and-srpc/hyperdrive-identity-services.md)
-  * [Hyperdrive storage services](incomplete-docs/services-and-srpc/hyperdrive-storage-services.md)
-  * [Hyperdrive HTTP gateway services](incomplete-docs/services-and-srpc/hyperdrive-http-gateway-services.md)
-
