@@ -6,9 +6,9 @@ You can find your profile drive by looking at the top right of the browser UI. Y
 
 ![](../.gitbook/assets/profile-button.png)
 
-To change your name, bio, or picture, see [Changing a Drive Title or Thumb](../beginner/changing-a-drive-title-or-thumb.md).
+To change your name, bio, or picture, see [Changing a Drive Title or Thumbnail](../beginner/changing-a-drive-title-or-thumb.md).
 
-Some applications will use your profile save and publish content. \(This is how [your feed]() works.\) When they want to use your profile, you will be prompted with this interface:
+Some applications will use your profile to save and publish content. \(This is how the [Microblog Feed Template](https://beaker.dev/docs/templates/microblog-feed/) works.\) When they want to use your profile, you will be prompted with this interface:
 
 ![](../.gitbook/assets/select-profile-modal.png)
 

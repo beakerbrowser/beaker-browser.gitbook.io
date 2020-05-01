@@ -16,7 +16,7 @@ Visit the drive, then click the blue address button in the URL bar. In the menu 
 
 ## Editing Properties From "My Drives"
 
-Open a new tab and look in the "My Drives" section. Right click on your target drive and select "Drive Properties."
+Open a new tab and look in the "My Drives" section. Right-click on your target drive and select "Drive Properties."
 
 ![](../.gitbook/assets/drive-properties-in-my-drives%20%281%29.png)
 

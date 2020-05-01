@@ -4,7 +4,7 @@ description: This API provides read and write access to hyperdrives.
 
 # beaker.hyperdrive
 
-The hyperdrive API provides read and write access to hyperdrives.
+The Hyperdrive API provides read and write access to hyperdrives.
 
 You can use the API by instantiating Hyperdrive instances using [.drive\(\)](beaker-hyperdrive.md#beaker-hyperdrive-drive-url) or by using the global methods. The global methods can accept paths or URLs. If you pass a path into a global method, the current drive will be used as the target. For example, if you were on a drive `hyper://foobar/`, the following three would be equivalent:
 

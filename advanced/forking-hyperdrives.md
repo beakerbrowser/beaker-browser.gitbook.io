@@ -11,7 +11,7 @@ You may want to fork a drive when you want
 
 ## Creating Forks
 
-To fork hyperdrive, click the blue address button on the left of the URL bar. Then click "Tools" and then "Fork Drive."
+To fork a hyperdrive, click the blue address button on the left of the URL bar. Then click "Tools" and then "Fork Drive."
 
 ![](../.gitbook/assets/fork-drive.png)
 

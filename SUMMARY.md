@@ -51,6 +51,3 @@
 ## Help
 
 * [Hole-punchability](help/hole-punchability.md)
-
-## Incomplete docs
-

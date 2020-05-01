@@ -6,7 +6,7 @@ Webterm is a web-based terminal environment that ships with Beaker. It is superf
 
 ## Basic Usage
 
-To open the terminal, press `ctrl+~` or click on the "terminal" button on the bottom left of the browser.
+To open the terminal, press `ctrl+~` or click on the "Terminal" button on the toolbar of the browser.
 
 The terminal uses a command syntax that's similar to "bash" in Unix.
 
@@ -14,13 +14,13 @@ The terminal uses a command syntax that's similar to "bash" in Unix.
 command [-s|--switch {param}] {param1} {param2}
 ```
 
-At this stage, there is no piping or sub-invocations. All commands translate to Javascript functions which can respond with HTML interfaces.
+At this stage, there is no piping or sub-invocations. All commands translate to JavaScript functions which can respond with HTML interfaces.
 
 ## Builtin Commands 
 
 You can type `help` at any time to see a full list of available commands. Here are some of the useful builtins:
 
-* **go.** Navigate the terminal and the attached page to the given path or URL.
+* **open.** Navigate the terminal and the attached page to the given path or URL.
 * **cd**. Navigate the terminal to the given path or URL.
 * Filesystem
   * **ls**. List the files in a given location.
@@ -34,7 +34,7 @@ You can type `help` at any time to see a full list of available commands. Here a
   * **cat**. View the contents of a file.
   * **edit**. Edit a file.
 * Page Interactions
-  * **page exec**. Execute javascript on the current page.
+  * **page exec**. Execute JavaScript on the current page.
   * **page inject**. Inject CSS into the current page.
 * Command Management
   * **commands ls**. List installed command packages.

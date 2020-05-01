@@ -6,7 +6,7 @@ Beaker includes a social network of personal websites. We call these websites th
 Every user has a "Profile Hyperdrive" which represents them on the network. [Learn more](intermediate/your-profile-drive.md).
 {% endhint %}
 
-In this guide, we're going to personalize your profile drive, find some other users to add to your address book, get you listed in Beaker's User Directory, and setup a hackable social-media feed.
+In this guide, we're going to personalize your profile drive, find some other users to add to your address book, get you listed in Beaker's User Directory, and set up a hackable social media feed.
 
 ### Customizing your profile drive
 
@@ -101,7 +101,7 @@ Beaker maintains a [user directory](https://userlist.beakerbrowser.com/). You ca
 
 ![](.gitbook/assets/user-directory.png)
 
-Currently the directory uses Twitter usernames to list profile drives, so you can find people by looking up their Twitter handle. \(We'll add more ways to list drives soon!\)
+Currently, the directory uses Twitter usernames to list profile drives, so you can find people by looking up their Twitter handle. \(We'll add more ways to list drives soon!\)
 
 You can visit the profiles by clicking on their names. If you find somebody you want to follow, click the "Add to Address Book" button next to their name.
 
@@ -115,15 +115,15 @@ To add yourself to the directory, click "Sign in via Twitter." You'll be directe
 
 After you've signed in, click "Add Your Listing." You'll be prompted to select your profile drive. Do that and your profile will be added!
 
-### Setup your feed app
+### Set up your feed app
 
-Now that you've added some people to [your address book](intermediate/your-address-book.md), let's setup a social media feed.
+Now that you've added some people to [your address book](intermediate/your-address-book.md), let's set up a social media feed.
 
 {% hint style="info" %}
-This feed app will be another Hyperdrive which reads and writes posts from your profile drive. It lives separately from your profile. You can share it if you want, but everybody can create their own feed app.
+This feed app will be another hyperdrive which reads and writes posts from your profile drive. It lives separately from your profile. You can share it if you want, but everybody can create their own feed app.
 {% endhint %}
 
-[Open the Microblog Feed Template](https://beaker.dev/docs/templates/microblog-feed/) and click "Create Drive from this Template." Change the title if you like and click "Create Drive."
+[Open the Microblog Feed Template](https://beaker.dev/docs/templates/microblog-feed/) and click "Create Drive from this Template." Change the title if you like and click "Create."
 
 ![](.gitbook/assets/create-my-feed.png)
 
@@ -147,9 +147,9 @@ This network is an experiment to see what happens when users are put in control 
 
 ### What next?
 
-From here, if you want to start hacking on some websites, read up on [creating new Hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command-lines, [check out Beaker's WebTerm](advanced/webterm.md).
+From here, if you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
 
-The [Beaker.dev Developer's Portal](https://beaker.dev) has a directory of useful resources for getting into code:
+The [Beaker Developer Portal](https://beaker.dev) has a directory of useful resources for getting into code:
 
 * [Templates](https://beaker.dev/#templates). Pre-made hyperdrives you can copy.
 * [Tutorials](https://beaker.dev/#docs). More developer-focused guides to teach you about building on Beaker.

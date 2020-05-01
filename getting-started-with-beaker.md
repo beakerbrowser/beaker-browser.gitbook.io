@@ -17,12 +17,12 @@ In this guide, we're going to familiarize you with Beaker's ideas and tools, but
 Beaker uses a peer-to-peer protocol called Hyperdrive. "Hyperdrives" are like websites. They store webpages, pictures, media, user data, and so on. Hyperdrives power a lot of Beaker's best features.
 
 {% hint style="info" %}
-**"Hyperdrives" are folders you host from your computer.** They contain web pages which you can browse and edit. You create and share Hyperdrives using Beaker. [Learn more](beginner/creating-new-hyperdrives.md).
+**"Hyperdrives" are folders you host from your computer.** They contain web pages which you can browse and edit. You can create and share hyperdrives using Beaker. [Learn more](beginner/creating-new-hyperdrives.md).
 {% endhint %}
 
 Peer-to-peer means that you host data directly from your device.
 
-One fun attribute of peer-to-peer is "co-hosting." This is where you help keep a Hyperdrive online by storing the data and contributing bandwidth to other users. It happens temporarily when you visit a Hyperdrive, but you can turn it on permanently for sites you like.
+One fun attribute of peer-to-peer is "co-hosting." This is where you help keep a hyperdrive online by storing the data and contributing bandwidth to other users. It happens temporarily when you visit a hyperdrive, but you can turn it on permanently for sites you like.
 
 {% hint style="info" %}
 **You can "host" other people's hyperdrives** to help keep them online and contribute bandwidth. [Learn more](beginner/hosting-hyperdrives.md).
@@ -34,7 +34,7 @@ A lot of Beaker's experience is the personal-site social network. If I were you,
 
 {% page-ref page="joining-the-social-network.md" %}
 
-If you want to start hacking on some websites, read up on [creating new Hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command-lines, [check out Beaker's WebTerm](advanced/webterm.md).
+If you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
 
 {% page-ref page="beginner/creating-new-hyperdrives.md" %}
 
@@ -42,7 +42,7 @@ If you want to start hacking on some websites, read up on [creating new Hyperdri
 
 {% page-ref page="advanced/forking-hyperdrives.md" %}
 
-The [Beaker.dev Developer's Portal](https://beaker.dev) has a directory of useful resources for getting into code:
+The [Beaker Developer Portal](https://beaker.dev) has a directory of useful resources for getting into code:
 
 * [Templates](https://beaker.dev/#templates). Pre-made hyperdrives you can copy.
 * [Tutorials](https://beaker.dev/#docs). More developer-focused guides to teach you about building on Beaker.
