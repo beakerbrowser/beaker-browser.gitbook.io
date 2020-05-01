@@ -2,11 +2,11 @@
 
 ## In the Editor
 
-Visit your hyperdrive and [open the editor](editor.md). Then expand the files listing by clicking the folder icon.
+Visit your hyperdrive and [open the editor](editor.md). Then expand the files listing by clicking the ellipsis icon.
 
-![Open the files listing by clicking the folder icon.](../.gitbook/assets/editor-list-files.png)
+![Open the files listing by clicking the ellipsis icon.](../.gitbook/assets/editor-list-files.png)
 
-Right click in the files listing \(but not on a file\) and select "New File" or "New Folder."
+Right-click in the files listing \(but not on a file\) and select "New file" or "New folder."
 
 ![](../.gitbook/assets/editor-new-file-folder.png)
 
@@ -18,7 +18,7 @@ Visit your hyperdrive and open the files explorer by clicking "Explore Files."
 
 ![](../.gitbook/assets/open-files-explorer.png)
 
-Right click in the files listing \(but not on a file\) and select "New File" or "New Folder."
+Right-click in the files listing \(but not on a file\) and select "New file" or "New folder."
 
 ![](../.gitbook/assets/files-explorer-new-file-folder.png)
 
@@ -30,7 +30,7 @@ Visit your hyperdrive and open the terminal by clicking "Terminal."
 
 ![](../.gitbook/assets/open-terminal.png)
 
-You can create a directory by typing `mkdir` followed by the foldername.
+You can create a directory by typing `mkdir` followed by the folder name.
 
 ![Creating a folder named &quot;test.&quot;](../.gitbook/assets/terminal-mkdir.png)
 

@@ -1,5 +1,5 @@
 ---
-description: This API sends and receives messages over hyperdrive connections
+description: This API sends and receives messages over Hyperdrive connections
 ---
 
 # beaker.peersockets

@@ -10,7 +10,7 @@ Hyperdrive is a peer-to-peer network. Conceptually it has a lot in common with B
 However, there are many important differences:
 
 * Drives are addressed by public-key URLs, e.g. `hyper://12345..af`
-* Files are signed to prove authenticity rather than only using a checksum in the merkle tree
+* Files are signed to prove authenticity rather than only using a checksum in the Merkle tree
 * Files in a drive can be changed
 * The history of changes to a drive is stored in a log
 * Peers can only connect to your drive if they know the public-key URL
@@ -25,7 +25,7 @@ Hyperdrives in Beaker are able to execute Web content \(HTML/JS/CSS\).
 
 ### Public key URLs
 
-Every drive is identified by a public key, often called just the "key." This key is encoded has a 64-character hex string.
+Every drive is identified by a public key, often called just the "key." This key is encoded as a 64-character hex string.
 
 In the URL, this key acts as the domain. The rest of the URL behaves as a typical HTTPS URL, including the path, query, and hash segments.
 
@@ -35,10 +35,10 @@ hyper://5f2fb811a6071237aa6e83db87edc433e861808f781a2a070ed8a5503fb6514e/
 
 ### Authorship controls
 
-A device must posses the private key for a drive to make changes.
+A device must possess the private key of the drive to make changes to it.
 
 {% hint style="info" %}
-**Currently the private key can not be shared between devices or users.** This kind of collaboration \(called "multi-writer"\) requires additions to the protocol which are still in progress.
+**Currently the private key cannot be shared between devices or users.** This kind of collaboration \(called "multi-writer"\) requires additions to the protocol which are still in progress.
 {% endhint %}
 
 ### Hosting / Co-hosting
@@ -59,7 +59,7 @@ The version of a drive can be specified in its URL after the key. It takes the f
 hyper://{key}+{version}/{path...}
 ```
 
-See also: [getInfo\(\)](../apis/beaker-hyperdrive.md#getinfo-opts), [checkout\(\)](../apis/beaker-hyperdrive.md#checkout-version), [diff\(\)](../apis/beaker-hyperdrive.md#diff-other-prefix-opts), [version](../apis/beaker-hyperdrive.md#version)
+See also: [drive\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-drive-url), [getInfo\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-getinfo-url-opts), [diff\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-diff-url-other-prefix-opts)
 
 ### Mounts
 
@@ -67,19 +67,14 @@ See also: [getInfo\(\)](../apis/beaker-hyperdrive.md#getinfo-opts), [checkout\(\
 
 It is possible to mount drives with or without a version. If a version is not specified, the latest content will always be provided when accessing the mounted folder.
 
-See also: [stat\(\)](../apis/beaker-hyperdrive.md#stat-path-opts), [mount\(\)](../apis/beaker-hyperdrive.md#mount-path-mount-opts), [unmount\(\)](../apis/beaker-hyperdrive.md#unmount-path-opts)
+See also: [stat\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-stat-url-opts), [mount\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-mount-url-mount-opts), [unmount\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-unmount-url-opts)
 
 ### File K/V metadata
 
 Every file has key-value metadata which can be used to store useful information. For example, a common metadata K/V is the `href` key, which is used to indicate that a file is written in reference to some other resource on the Internet.
 
-See also: [stat\(\)](../apis/beaker-hyperdrive.md#stat-path-opts), [writeFile\(\)](../apis/beaker-hyperdrive.md#writefile-path-data-opts), [updateMetadata\(\)](../apis/beaker-hyperdrive.md#updatemetadata-path-metadata-opts), [deleteMetadata\(\)](../apis/beaker-hyperdrive.md#deletemetadata-path-keys-opts)
+See also: [stat\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-stat-url-opts), [writeFile\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-writefile-url-data-opts), [updateMetadata\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-updatemetadata-url-metadata-opts), [deleteMetadata\(\)](../apis/beaker-hyperdrive.md#beaker-hyperdrive-deletemetadata-url-keys-opts)
 
 ### Querying
 
-Hyperdrive includes a [query\(\) method](../apis/beaker-hyperdrive.md#query-query) which can be used to quickly scan multiple folders. It is able to filter against paths, metadata, entry type, and mount destinations. It can also sort the output and apply limit/offset for pagination.
-
-See also: [query\(\)](../apis/beaker-hyperdrive.md#query-query)
-
-
-
+The Hyperdrive API includes a [query\(\) method](../apis/beaker-hyperdrive.md#beaker-hyperdrive-query-query) which can be used to quickly scan multiple folders. It is able to filter against paths, metadata, entry type, and mount destinations. It can also sort the output and apply limit/offset for pagination.

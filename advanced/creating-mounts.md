@@ -12,7 +12,7 @@ Visit your hyperdrive and [open the editor](../beginner/editor.md). Then expand 
 
 ![Open the files listing by clicking the folder icon.](../.gitbook/assets/editor-list-files.png)
 
-Right click in the files listing \(but not on a file\) and select "New Mount."
+Right-click in the files listing \(but not on a file\) and select "New Mount."
 
 ![](../.gitbook/assets/editor-new-mount.png)
 
@@ -34,7 +34,7 @@ Visit your hyperdrive and open the files explorer by clicking "Explore Files."
 
 ![](../.gitbook/assets/open-files-explorer.png)
 
-Right click in the files listing \(but not on a file\) and select "New Mount."
+Right-click in the files listing \(but not on a file\) and select "New Mount."
 
 ![](../.gitbook/assets/files-explorer-new-mount.png)
 

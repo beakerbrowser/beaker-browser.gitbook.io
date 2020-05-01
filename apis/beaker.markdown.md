@@ -1,14 +1,14 @@
 ---
-description: This API renders markdown into HTML
+description: This API renders Markdown into HTML
 ---
 
 # beaker.markdown
 
 ### beaker.markdown.toHTML\(md\)
 
-Renders markdown into HTML.
+Renders Markdown into HTML.
 
-* **md** String. The markdown to render.
+* **md** String. The Markdown to render.
 * Returns **String**.
 
 ```javascript

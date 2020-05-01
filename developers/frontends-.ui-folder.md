@@ -15,7 +15,7 @@ A Frontend is simply an html file found at `/.ui/ui.html`. This file is used to 
 * The target URL is a folder.
 * The "Accept" header includes text/html \(which indicates the browser is asking for a "page"\).
 
-Because the Frontend effectively overrides all page-serving, it can render whatever the site author wants. A common pattern is to use Javascript to read whatever file is referenced by `window.location.pathname` and then place that in the UI, as in this example snippet:
+Because the Frontend effectively overrides all page-serving, it can render whatever the site author wants. A common pattern is to use JavaScript to read whatever file is referenced by `window.location.pathname` and then place that in the UI, as in this example snippet:
 
 {% code title="/.ui/ui.html" %}
 ```markup
@@ -46,5 +46,5 @@ An advantage of Frontends is that they are stored in a subfolder. This makes it 
 |12345..af> mount $my_frontend_drive_url /.ui
 ```
 
-Frontend Hyperdrives can then be published and shared across multiple sites.
+Frontend hyperdrives can then be published and shared across multiple sites.
 
