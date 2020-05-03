@@ -38,7 +38,7 @@ peerEvents.addEventListener('leave', e => {
 // send and receive 'chat' messages
 var topic = beaker.peersockets.join('chat')
 function sendToAll (message) {
-  message = new TextEncoder('utf-8').encode(input.value)
+  message = new TextEncoder('utf-8').encode(message)
   for (let peerId of peerIds) {
     topic.send(peerId, message)
   }
