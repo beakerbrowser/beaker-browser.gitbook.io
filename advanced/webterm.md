@@ -16,7 +16,7 @@ command [-s|--switch {param}] {param1} {param2}
 
 At this stage, there is no piping or sub-invocations. All commands translate to JavaScript functions which can respond with HTML interfaces.
 
-## Builtin Commands 
+## Builtin Commands
 
 You can type `help` at any time to see a full list of available commands. Here are some of the useful builtins:
 

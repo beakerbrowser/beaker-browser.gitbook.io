@@ -8,7 +8,7 @@ Every user has a "Profile Hyperdrive" which represents them on the network. [Lea
 
 In this guide, we're going to personalize your profile drive, find some other users to add to your address book, get you listed in Beaker's User Directory, and set up a hackable social media feed.
 
-### Customizing your profile drive
+## Customizing your profile drive
 
 During Beaker's setup, you filled out a name, picture, and bio for your profile. You can visit your profile drive by clicking your picture at the top right of the UI.
 
@@ -93,7 +93,7 @@ Your profile name, bio, and picture [can be changed using the drive properties](
 
 Now your profile drive will read your name and bio on load and display it on the page. \([Read more about the beaker.hyperdrive API.](apis/beaker-hyperdrive.md)\)
 
-### Finding other users
+## Finding other users
 
 It's feeling pretty lonely in here! Let's find some people to add to your [address book](intermediate/your-address-book.md).
 
@@ -107,7 +107,7 @@ You can visit the profiles by clicking on their names. If you find somebody you 
 
 ![](.gitbook/assets/user-directory-entry.png)
 
-### Adding yourself to the user directory
+## Adding yourself to the user directory
 
 To add yourself to the directory, click "Sign in via Twitter." You'll be directed to sign in and authorize our directory to see your twitter profile. \(Again: we'll add more ways to sign in soon!\)
 
@@ -115,7 +115,7 @@ To add yourself to the directory, click "Sign in via Twitter." You'll be directe
 
 After you've signed in, click "Add Your Listing." You'll be prompted to select your profile drive. Do that and your profile will be added!
 
-### Set up your feed app
+## Set up your feed app
 
 Now that you've added some people to [your address book](intermediate/your-address-book.md), let's set up a social media feed.
 
@@ -135,7 +135,7 @@ After you select your profile, you'll see posts from people in your address book
 
 ![](.gitbook/assets/my-feed.png)
 
-### You're now hooked in!
+## You're now hooked in!
 
 You can make posts and see posts from your network, _and_ you can hack the social media feed app to change the styles and add new features.
 
@@ -145,7 +145,7 @@ Of course, you might want to find a feed app somebody else made so then it's the
 This network is an experiment to see what happens when users are put in control of the applications. We're going to help guide things, but we're also going to stay hands-off when possible. It might get a little messy, but we hope you'll have some fun!
 {% endhint %}
 
-### What next?
+## What next?
 
 From here, if you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
 

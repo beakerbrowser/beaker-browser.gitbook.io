@@ -20,7 +20,7 @@ When you don't have to set up a server, you don't have to _pay_ for a server. Ef
 
 ## A Global Hypermedia Filesystem
 
-Hyperdrive is a filesystem where every folder and file has a URL. Everything is linkable, and everything is accessible over the Internet \(pursuant to access controls, of course\). 
+Hyperdrive is a filesystem where every folder and file has a URL. Everything is linkable, and everything is accessible over the Internet \(pursuant to access controls, of course\).
 
 Applications use this linkability to join data across users and apps. There are no data siloes on the Beaker Web.
 

@@ -7,7 +7,7 @@ The standard behavior of `hyper://` is to serve whichever file is referenced by 
 
 Two solve this, the `hyper://` protocol supports a behavior called "Frontends."
 
-### How Frontends Work
+## How Frontends Work
 
 A Frontend is simply an html file found at `/.ui/ui.html`. This file is used to provide a consistent interface for the site. It is served _rather_ _than_ the target file in the following cases:
 
@@ -38,7 +38,7 @@ setup()
 ```
 {% endcode %}
 
-### Mounted Frontends
+## Mounted Frontends
 
 An advantage of Frontends is that they are stored in a subfolder. This makes it possible for frontends to be their own Hyperdrive sites which are mounted to `/.ui`.
 

@@ -91,7 +91,7 @@ peerEvents.addEventListener('leave', e => {
 
 ## `Topic` Instance
 
-###  "message" event
+### "message" event
 
 Emitted when a peer sends you a message on the topic.
 

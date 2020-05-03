@@ -4,8 +4,6 @@ Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 
 {% page-ref page="getting-started-with-beaker.md" %}
 
-{% page-ref page="joining-the-social-network.md" %}
-
 ### Basics
 
 * [Creating New Hyperdrives](beginner/creating-new-hyperdrives.md)

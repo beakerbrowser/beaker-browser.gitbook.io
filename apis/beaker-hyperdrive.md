@@ -398,5 +398,3 @@ await beaker.hyperdrive.deleteMetadata('hyper://1234..ef/foo.txt', 'title')
 await beaker.hyperdrive.deleteMetadata('hyper://1234..ef/bar.txt', ['title', 'href'])
 ```
 
-
-

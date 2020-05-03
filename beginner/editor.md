@@ -22,5 +22,3 @@ To view a files listing for the current hyperdrive, click the ellipsis icon in t
 
 ![](../.gitbook/assets/editor-list-files.png)
 
-
-

@@ -12,7 +12,7 @@ In this guide, we're going to familiarize you with Beaker's ideas and tools, but
 
 {% page-ref page="joining-the-social-network.md" %}
 
-### What is this peer-to-peer thing?
+## What is this peer-to-peer thing?
 
 Beaker uses a peer-to-peer protocol called Hyperdrive. "Hyperdrives" are like websites. They store webpages, pictures, media, user data, and so on. Hyperdrives power a lot of Beaker's best features.
 
@@ -28,7 +28,7 @@ One fun attribute of peer-to-peer is "co-hosting." This is where you help keep a
 **You can "host" other people's hyperdrives** to help keep them online and contribute bandwidth. [Learn more](beginner/hosting-hyperdrives.md).
 {% endhint %}
 
-### What should I learn next?
+## What should I learn next?
 
 A lot of Beaker's experience is the personal-site social network. If I were you, I'd see [how to join the social network.](joining-the-social-network.md)
 
@@ -56,6 +56,4 @@ You can also [find Beaker's new Web APIs here](./#apis).
 {% page-ref page="apis/beaker.peersockets.md" %}
 
 If you're interested in learning technical details, [see the developer's Introduction to Hyperdrive](developers/introduction-to-hyperdrive.md).
-
-
 
