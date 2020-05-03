@@ -42,7 +42,7 @@ function sendToAll (message) {
   for (let peerId of peerIds) {
     topic.send(peerId, message)
   }
-})
+}
 topic.addEventListener('message', e => {
   console.log('peer', e.peerId, 'says', new TextDecoder().decode(e.message))
 })
