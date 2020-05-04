@@ -51,7 +51,7 @@ You can also [find Beaker's new Web APIs here](./#apis).
 
 {% page-ref page="apis/beaker.contacts.md" %}
 
-{% page-ref page="apis/beaker-hyperdrive.md" %}
+{% page-ref page="apis/beaker.hyperdrive.md" %}
 
 {% page-ref page="apis/beaker.peersockets.md" %}
 

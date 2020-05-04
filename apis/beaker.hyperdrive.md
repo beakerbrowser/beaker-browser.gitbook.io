@@ -6,7 +6,7 @@ description: This API provides read and write access to hyperdrives.
 
 The Hyperdrive API provides read and write access to hyperdrives.
 
-You can use the API by instantiating Hyperdrive instances using [.drive\(\)](beaker-hyperdrive.md#beaker-hyperdrive-drive-url) or by using the global methods. The global methods can accept paths or URLs. If you pass a path into a global method, the current drive will be used as the target. For example, if you were on a drive `hyper://foobar/`, the following three would be equivalent:
+You can use the API by instantiating Hyperdrive instances using [.drive\(\)](beaker.hyperdrive.md#beaker-hyperdrive-drive-url) or by using the global methods. The global methods can accept paths or URLs. If you pass a path into a global method, the current drive will be used as the target. For example, if you were on a drive `hyper://foobar/`, the following three would be equivalent:
 
 ```javascript
 await beaker.hyperdrive.readdir('/')
@@ -67,7 +67,7 @@ var drive = await beaker.hyperdrive.forkDrive(existingDriveUrl)
 
 Fetch metadata and system information about the hyperdrive.
 
-* **url** String. The URL of the hyperdrive to query. \(Not required on `Hyperdrive` objects returned by [beaker.hyperdrive.drive\(\)](beaker-hyperdrive.md#beaker-hyperdrive-drive-url).\)
+* **url** String. The URL of the hyperdrive to query. \(Not required on `Hyperdrive` objects returned by [beaker.hyperdrive.drive\(\)](beaker.hyperdrive.md#beaker-hyperdrive-drive-url).\)
 * **opts** Object.
   * **timeout** Number \(ms\). How long to wait for the operation to complete before throwing a timeout error. Defaults to 60000.
 * Returns **Promise&lt;Object&gt;**.

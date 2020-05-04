@@ -91,7 +91,7 @@ Your profile name, bio, and picture [can be changed using the drive properties](
 </html>
 ```
 
-Now your profile drive will read your name and bio on load and display it on the page. \([Read more about the beaker.hyperdrive API.](apis/beaker-hyperdrive.md)\)
+Now your profile drive will read your name and bio on load and display it on the page. \([Read more about the beaker.hyperdrive API.](apis/beaker.hyperdrive.md)\)
 
 ## Finding other users
 
