@@ -60,9 +60,9 @@ Let's add a button! This button will help other users add your profile drive to 
 
 Now your visitors have a quick way to follow your site! \([Read more about the beaker.contacts API](apis/beaker.contacts.md).\)
 
-![](.gitbook/assets/social-network-profile-2.png)
-
 Your profile name, bio, and picture [can be changed using the drive properties](beginner/changing-a-drive-title-or-thumb.md). The profile page won't update automatically, but we can add that!
+
+![](.gitbook/assets/social-network-profile-2.png)
 
 ```markup
 <!doctype html>
