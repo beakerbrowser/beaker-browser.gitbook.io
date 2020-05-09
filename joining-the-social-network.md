@@ -28,10 +28,36 @@ You will find your profile drive is very plain. That's because we want you to bu
     <link rel="icon" type="image/png" sizes="32x32" href="/thumb">
   </head>
   <body>
-    <img src="/thumb">
-    <h1>Your Name</h1>
-    <p>Your Bio</p>
+    <main>
+      <header>
+        <img src="/thumb">
+        <h1>Your Name</h1>
+      </header>
+      <p>Your Bio</p>
+    </main>
   </body>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, Cantarell, "Oxygen Sans", "Helvetica Neue", sans-serif;
+    }
+    main {
+      margin: 0 auto;
+      padding: 20px;
+      box-sizing: border-box;
+      max-width: 800px;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      height: 80px;
+    }
+    header img {
+      border-radius: 4px;
+      height: 80px;
+      margin-right: 20px;
+    }
+  </style>
 </html>
 ```
 
@@ -45,16 +71,42 @@ Let's add a button! This button will help other users add your profile drive to 
     <link rel="icon" type="image/png" sizes="32x32" href="/thumb">
   </head>
   <body>
-    <img src="/thumb">
-    <h1>Your Name</h1>
-    <p>Your Bio</p>
-    <button id="addContact">Add to Address Book</button>
+    <main>
+      <header>
+        <img src="/thumb">
+        <h1>Your Name</h1>
+      </header>
+      <p>Your Bio</p>
+      <button id="addContact">Add to Address Book</button>
+    </main>
   </body>
   <script>
     addContact.onclick = function () {
       beaker.contacts.requestAddContact(location.toString())
     }
   </script>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, Cantarell, "Oxygen Sans", "Helvetica Neue", sans-serif;
+    }
+    main {
+      margin: 0 auto;
+      padding: 20px;
+      box-sizing: border-box;
+      max-width: 800px;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      height: 80px;
+    }
+    header img {
+      border-radius: 4px;
+      height: 80px;
+      margin-right: 20px;
+    }
+  </style>
 </html>
 ```
 
@@ -72,10 +124,14 @@ Your profile name, bio, and picture [can be changed using the drive properties](
     <link rel="icon" type="image/png" sizes="32x32" href="/thumb">
   </head>
   <body>
-    <img src="/thumb">
-    <h1 id="title"></h1>
-    <p id="description"></p>
-    <button id="addContact">Add to Address Book</button>
+    <main>
+      <header>
+        <img src="/thumb">
+        <h1 id="title"></h1>
+      </header>
+      <p id="description"></p>
+      <button id="addContact">Add to Address Book</button>
+    </main>
   </body>
   <script>
     addContact.onclick = function () {
@@ -88,6 +144,28 @@ Your profile name, bio, and picture [can be changed using the drive properties](
     }
     setup()
   </script>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, Cantarell, "Oxygen Sans", "Helvetica Neue", sans-serif;
+    }
+    main {
+      margin: 0 auto;
+      padding: 20px;
+      box-sizing: border-box;
+      max-width: 800px;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      height: 80px;
+    }
+    header img {
+      border-radius: 4px;
+      height: 80px;
+      margin-right: 20px;
+    }
+  </style>
 </html>
 ```
 
