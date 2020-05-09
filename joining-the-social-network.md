@@ -205,7 +205,7 @@ This feed app will be another hyperdrive which reads and writes posts from your 
 
 ![](.gitbook/assets/create-my-feed.png)
 
-This will create a Hyperdrive app _which you own_. You can [edit the source](beginner/editor.md) and make any change you want -- which you might want to do, because this thing is kind of ugly.
+This will create a Hyperdrive app _which you own_. You can [edit the source](beginner/editor.md) and make any change you want.
 
 ![](.gitbook/assets/my-feed-not-signed-in.png)
 
