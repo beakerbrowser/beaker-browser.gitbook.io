@@ -229,8 +229,8 @@ From here, if you want to start hacking on some websites, read up on [creating n
 
 The [Beaker Developer Portal](https://beaker.dev) has a directory of useful resources for getting into code:
 
-* [Templates](https://beaker.dev/#templates). Pre-made hyperdrives you can copy.
-* [Tutorials](https://beaker.dev/#docs). More developer-focused guides to teach you about building on Beaker.
+* [Templates](https://beaker.dev/docs/templates/). Pre-made hyperdrives you can copy.
+* [Tutorials](https://beaker.dev/docs/tutorials/). More developer-focused guides to teach you about building on Beaker.
 
 You can also [find Beaker's new Web APIs here](./#apis).
 
