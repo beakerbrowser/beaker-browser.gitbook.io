@@ -1,7 +1,7 @@
 # Hole-punchability
 
 {% hint style="info" %}
-**If your network is "not hole-punchable," you may have trouble connecting to other peers.** Read this article to learn more.
+**If your network is "not hole-punchable," you may have trouble connecting to other peers.** This may be due to your network configuration.
 {% endhint %}
 
 Beaker's peer-to-peer networking relies on "hole-punching," a technique which makes your device accessible to people outside of your local network.
