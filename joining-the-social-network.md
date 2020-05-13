@@ -193,19 +193,19 @@ To add yourself to the directory, click "Sign in via Twitter." You'll be directe
 
 After you've signed in, click "Add Your Listing." You'll be prompted to select your profile drive. Do that and your profile will be added!
 
-## Set up your feed app
+## Say hello on your feed
 
-Now that you've added some people to [your address book](intermediate/your-address-book.md), let's set up a social media feed.
+Now that you've added some people to [your address book](intermediate/your-address-book.md), let's say hi on your social media feed.
 
 {% hint style="info" %}
-This feed app will be another hyperdrive which reads and writes posts from your profile drive. It lives separately from your profile. You can share it if you want, but everybody can create their own feed app.
+This feed app will be another hyperdrive which reads and writes posts from your profile drive. It lives separately from your profile.
 {% endhint %}
 
-[Open the Microblog Feed Template](https://beaker.dev/docs/templates/microblog-feed/) and click "Create Drive from this Template." Change the title if you like and click "Create."
+Visit the "Blahbity Blog" app at this URL:
 
-![](.gitbook/assets/create-my-feed.png)
+hyper://a8e9bd0f4df60ed5246a1b1f53d51a1feaeb1315266f769ac218436f12fda830/
 
-This will create a Hyperdrive app _which you own_. You can [edit the source](beginner/editor.md) and make any change you want.
+You'll see the following screen:
 
 ![](.gitbook/assets/my-feed-not-signed-in.png)
 
@@ -215,13 +215,7 @@ After you select your profile, you'll see posts from people in your address book
 
 ## You're now hooked in!
 
-You can make posts and see posts from your network, _and_ you can hack the social media feed app to change the styles and add new features.
-
-Of course, you might want to find a feed app somebody else made so then it's their headache. The good news is: your data will transfer between the apps!
-
-{% hint style="info" %}
-This network is an experiment to see what happens when users are put in control of the applications. We're going to help guide things, but we're also going to stay hands-off when possible. It might get a little messy, but we hope you'll have some fun!
-{% endhint %}
+You can make posts and see posts from your network, _and_ you can [fork the social media feed app](advanced/forking-hyperdrives.md) to change the styles and add new features.
 
 ## What next?
 
