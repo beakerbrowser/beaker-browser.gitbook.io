@@ -2,8 +2,8 @@
 
 Welcome! Beaker is a peer-to-peer browser for Web hackers. It includes a bunch of tools:
 
-* [Instant Website creation](beginner/creating-new-hyperdrives.md)
-* [A builtin editor](beginner/editor.md)
+* [Instant website creation](beginner/creating-new-hyperdrives.md)
+* [A builtin editor](beginner/using-the-editor.md)
 * [A terminal environment](advanced/webterm.md)
 * [Peer-to-peer Web APIs](./#apis)
 * and more.
@@ -30,15 +30,15 @@ One fun attribute of peer-to-peer is "co-hosting." This is where you help keep a
 
 ## What should I learn next?
 
-A lot of Beaker's experience is the personal-site social network. If I were you, I'd see [how to join the social network.](joining-the-social-network.md)
+A lot of Beaker's experience is the social network of personal websites. If I were you, I'd see [how to join the social network](joining-the-social-network.md).
 
 {% page-ref page="joining-the-social-network.md" %}
 
-If you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
+If you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/using-the-editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
 
 {% page-ref page="beginner/creating-new-hyperdrives.md" %}
 
-{% page-ref page="beginner/editor.md" %}
+{% page-ref page="beginner/using-the-editor.md" %}
 
 {% page-ref page="advanced/forking-hyperdrives.md" %}
 
@@ -56,4 +56,3 @@ You can also [find Beaker's new Web APIs here](./#apis).
 {% page-ref page="apis/beaker.peersockets.md" %}
 
 If you're interested in learning technical details, [see the developer's Introduction to Hyperdrive](developers/introduction-to-hyperdrive.md).
-

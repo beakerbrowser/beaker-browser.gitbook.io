@@ -8,8 +8,8 @@
 ## Beginner
 
 * [Creating New Hyperdrives](beginner/creating-new-hyperdrives.md)
-* [Changing a Drive Title or Thumbnail](beginner/changing-a-drive-title-or-thumb.md)
-* [Using the Editor](beginner/editor.md)
+* [Changing a Drive's Title or Thumbnail](beginner/changing-a-drive-title-or-thumbnail.md)
+* [Using the Editor](beginner/using-the-editor.md)
 * [Detaching the Editor](beginner/detaching-the-editor.md)
 * [Creating Files and Folders](beginner/creating-files-and-folders.md)
 * [Importing and Exporting Files](beginner/importing-and-exporting-files.md)
@@ -43,12 +43,11 @@
 ## Developers
 
 * [Introduction to Hyperdrive](developers/introduction-to-hyperdrive.md)
-* [Index.json Manifest](developers/indexjson-manifest.md)
+* [Index.json Manifest](developers/index.json-manifest.md)
 * [Content-Type Negotiation](developers/content-type-negotiation.md)
 * [Frontends \(.ui folder\)](developers/frontends-.ui-folder.md)
-* [.Goto Files](developers/.goto-files.md)
+* [.Goto Files](developers/goto-files.md)
 
 ## Help
 
 * [Hole-punchability](help/hole-punchability.md)
-

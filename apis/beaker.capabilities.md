@@ -10,7 +10,7 @@ description: >-
 
 The purpose of capability URLs is to provide security primitives for constrained access to a hyperdrive. The default security model of a hyperdrive is that the pubkey URL provides read access locally and over the network. Because the pubkey is unchangeable, it's impossible to revoke access to a pubkey once it's acquired. The "capability URLs" are local mappings from random IDs to the hyperdrive pubkeys, and therefore can provide read access without giving away the pubkey.
 
-Applications can share capability URLs with other applications \(e.g. in an iframe\) to provide temporary and constrained access.
+Applications can share capability URLs with other applications \(e.g. in an `<iframe>`\) to provide temporary and constrained access.
 
 A hyperdrive capability URL uses a special `.cap` pseudo-TLD. They are formed as `hyper://{random-base32-id}.cap/`. 
 
