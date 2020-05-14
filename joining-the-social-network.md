@@ -6,11 +6,11 @@ Beaker includes a social network of personal websites. We call these websites th
 Every user has a "Profile Hyperdrive" which represents them on the network. [Learn more](intermediate/your-profile-drive.md).
 {% endhint %}
 
-In this guide, we're going to personalize your profile drive, find some other users to add to your address book, get you listed in Beaker's User Directory, and set up a hackable social media feed.
+In this guide, we're going to personalize your profile drive, find some other users to add to your address book, get you listed in Beaker's User Directory, and say hello on your social media feed.
 
 ## Customizing your profile drive
 
-During Beaker's setup, you filled out a name, picture, and bio for your profile. You can visit your profile drive by clicking your picture at the top right of the UI.
+During Beaker's setup, you filled out a name, picture, and bio for your profile. You can visit your profile drive by clicking your picture at the top right of the browser.
 
 ![](.gitbook/assets/profile-button.png)
 
@@ -18,7 +18,7 @@ You will find your profile drive is very plain. That's because we want you to bu
 
 ![](.gitbook/assets/social-network-profile-1.png)
 
-[Open the editor](beginner/editor.md) to see the source code:
+[Open the editor](beginner/using-the-editor.md) to see the source code:
 
 ```markup
 <!doctype html>
@@ -112,7 +112,7 @@ Let's add a button! This button will help other users add your profile drive to 
 
 Now your visitors have a quick way to follow your site! \([Read more about the beaker.contacts API](apis/beaker.contacts.md).\)
 
-Your profile name, bio, and picture [can be changed using the drive properties](beginner/changing-a-drive-title-or-thumb.md). The profile page won't update automatically, but we can add that!
+Your profile name, bio, and picture [can be changed using the "Drive Properties" dialog](beginner/changing-a-drive-title-or-thumbnail.md). The profile page won't update automatically, but we can add that!
 
 ![](.gitbook/assets/social-network-profile-2.png)
 
@@ -173,21 +173,21 @@ Now your profile drive will read your name and bio on load and display it on the
 
 ## Finding other users
 
-It's feeling pretty lonely in here! Let's find some people to add to your [address book](intermediate/your-address-book.md).
+It's feeling pretty lonely in here! Let's find some people to add to [your address book](intermediate/your-address-book.md).
 
-Beaker maintains a [user directory](https://userlist.beakerbrowser.com/). You can find a link to it in the top right of the UI.
+Beaker maintains a [user directory](https://userlist.beakerbrowser.com/). You can find a link to it in the top right of the browser.
 
 ![](.gitbook/assets/user-directory.png)
 
 Currently, the directory uses Twitter usernames to list profile drives, so you can find people by looking up their Twitter handle. \(We'll add more ways to list drives soon!\)
 
-You can visit the profiles by clicking on their names. If you find somebody you want to follow, click the "Add to Address Book" button next to their name.
+You can visit the profiles by clicking on their names. If you find somebody you want to follow, click on the "Add to Address Book" button next to their name.
 
 ![](.gitbook/assets/user-directory-entry.png)
 
 ## Adding yourself to the user directory
 
-To add yourself to the directory, click "Sign in via Twitter." You'll be directed to sign in and authorize our directory to see your twitter profile. \(Again: we'll add more ways to sign in soon!\)
+To add yourself to the directory, click "Sign in via Twitter." You'll be directed to sign in and authorize our directory to see your Twitter profile. \(Again: we'll add more ways to sign in soon!\)
 
 ![](.gitbook/assets/user-directory-add.png)
 
@@ -209,7 +209,7 @@ You'll see the following screen:
 
 ![](.gitbook/assets/my-feed-not-signed-in.png)
 
-After you select your profile, you'll see posts from people in your address book. Any posts you create will be written to your profile drive under the `/microblog` folder. Posts are markdown by default \(.md\) but you can posts .txt, HTML, images, video, and audio. \(The HTML goes in an iframe just to be safe.\)
+After you select your profile, you'll see posts from people in your address book. Any posts you create will be written to your profile drive under the `/microblog` folder. Posts are Markdown by default \(`.md`\) but you can posts .txt, HTML, images, video, and audio. \(The HTML goes in an `<iframe>` just to be safe.\)
 
 ![](.gitbook/assets/my-feed.png)
 
@@ -219,7 +219,7 @@ You can make posts and see posts from your network, _and_ you can [fork the soci
 
 ## What next?
 
-From here, if you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
+From here, if you want to start hacking on some websites, read up on [creating new hyperdrives](beginner/creating-new-hyperdrives.md) and [using the editor](beginner/using-the-editor.md). If you love the idea of remixing other people's work, you should [learn about forking hyperdrives](advanced/forking-hyperdrives.md). If you're a fan of command lines, [check out Beaker's Webterm](advanced/webterm.md).
 
 The [Beaker Developer Portal](https://beaker.dev) has a directory of useful resources for getting into code:
 
@@ -227,4 +227,3 @@ The [Beaker Developer Portal](https://beaker.dev) has a directory of useful reso
 * [Tutorials](https://beaker.dev/docs/tutorials/). More developer-focused guides to teach you about building on Beaker.
 
 You can also [find Beaker's new Web APIs here](./#apis).
-

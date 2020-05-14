@@ -10,13 +10,10 @@ In some cases, hole-punching may fail. This will be indicated by Beaker in the t
 
 ![](../.gitbook/assets/not-hole-punchable.png)
 
-This doesn't mean that **all** connections will fail, but it does mean that the odds of failed-connection are higher.
+This doesn't mean that **all** connections will fail, but it does mean that the odds of failed connection are higher.
 
 ### Why does this happen and what can I do?
 
 Some network routers and VPNs do not support hole-punching. If you're using a VPN, try disabling it. You may also need to try other networks.
 
 We're working on ways to ensure connectivity even if hole-punching fails. Sorry if this is an ongoing problem for you!
-
-
-

@@ -6,11 +6,11 @@ Mounts are useful for a variety of use-cases. They can be used to make collectio
 
 A mounted drive will behave just like a subfolder. If you don't "own" the mounted drive, it will be read-only, even if the containing drive is yours.
 
-## In the Editor
+## In the editor
 
-Visit your hyperdrive and [open the editor](../beginner/editor.md). Then expand the files listing by clicking the folder icon.
+Visit your hyperdrive and [open the editor](../beginner/using-the-editor.md). Then expand the files listing by clicking on the folder icon.
 
-![Open the files listing by clicking the folder icon.](../.gitbook/assets/editor-list-files.png)
+![Open the files listing by clicking on the folder icon.](../.gitbook/assets/editor-list-files.png)
 
 Right-click in the files listing \(but not on a file\) and select "New Mount."
 
@@ -28,7 +28,7 @@ Your new mount will appear in the editor's files listing.
 
 ![](../.gitbook/assets/mount-in-editor.png)
 
-## In the Files Explorer
+## In the files explorer
 
 Visit your hyperdrive and open the files explorer by clicking "Explore Files."
 
@@ -50,7 +50,7 @@ Your new mount will appear in the explorer's files listing.
 
 ![](../.gitbook/assets/mount-in-files-explorer.png)
 
-## In the Terminal
+## In the terminal
 
 Visit your hyperdrive and open the terminal by clicking "Terminal."
 

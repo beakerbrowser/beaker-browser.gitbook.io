@@ -23,7 +23,7 @@ Each hyperdrive \(or "drive"\) is essentially a networked folder. A drive can co
 
 Hyperdrives in Beaker are able to execute Web content \(HTML/JS/CSS\).
 
-### Public key URLs
+### Public-key URLs
 
 Every drive is identified by a public key, often called just the "key." This key is encoded as a 64-character hex string.
 
@@ -78,4 +78,3 @@ See also: [stat\(\)](../apis/beaker.hyperdrive.md#beaker-hyperdrive-stat-url-opt
 ### Querying
 
 The Hyperdrive API includes a [query\(\) method](../apis/beaker.hyperdrive.md#beaker-hyperdrive-query-query) which can be used to quickly scan multiple folders. It is able to filter against paths, metadata, entry type, and mount destinations. It can also sort the output and apply limit/offset for pagination.
-

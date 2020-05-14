@@ -1,10 +1,10 @@
 # Creating Files and Folders
 
-## In the Editor
+## In the editor
 
-Visit your hyperdrive and [open the editor](editor.md). Then expand the files listing by clicking the ellipsis icon.
+Visit your hyperdrive and [open the editor](using-the-editor.md). Then expand the files listing by clicking on the ellipsis icon.
 
-![Open the files listing by clicking the ellipsis icon.](../.gitbook/assets/editor-list-files.png)
+![Open the files listing by clicking on the ellipsis icon.](../.gitbook/assets/editor-list-files.png)
 
 Right-click in the files listing \(but not on a file\) and select "New file" or "New folder."
 
@@ -12,7 +12,7 @@ Right-click in the files listing \(but not on a file\) and select "New file" or 
 
 You will be prompted for the file or folder name. After choosing a name, the file/folder will appear in the listing.
 
-## In the Files Explorer
+## In the files explorer
 
 Visit your hyperdrive and open the files explorer by clicking "Explore Files."
 
@@ -24,7 +24,7 @@ Right-click in the files listing \(but not on a file\) and select "New file" or 
 
 You will be prompted for the file or folder name. After choosing a name, the file/folder will appear in the listing.
 
-## In the Terminal
+## In the terminal
 
 Visit your hyperdrive and open the terminal by clicking "Terminal."
 

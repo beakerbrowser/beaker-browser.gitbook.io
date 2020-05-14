@@ -285,7 +285,7 @@ await beaker.hyperdrive.symlink('hyper://1234..ef/this-file-already-exists.txt',
 
 ### beaker.hyperdrive.mount\(url, mount\[, opts\]\)
 
-Create a mount on the drive to some other drive. \(Mounts are like symlinks that work across Hyperdrives.\) Note: we know, we know, the argument order is the opposite of symlink.
+Create a mount on the drive to some other drive. \(Mounts are like symlinks that work across hyperdrives.\) Note: we know, we know, the argument order is the opposite of symlink.
 
 * **url** String. Where to place the mount.
 * **mount** String\|Object\|Hyperdrive. The drive to mount. If a String or Hyperdrive, acts as the key attribute.

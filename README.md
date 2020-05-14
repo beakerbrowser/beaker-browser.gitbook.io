@@ -4,11 +4,11 @@ Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 
 {% page-ref page="getting-started-with-beaker.md" %}
 
-### Basics
+### Beginner
 
 * [Creating New Hyperdrives](beginner/creating-new-hyperdrives.md)
-* [Changing a Drive Title or Thumbnail](beginner/changing-a-drive-title-or-thumb.md)
-* [Using the Editor](beginner/editor.md)
+* [Changing a Drive's Title or Thumbnail](beginner/changing-a-drive-title-or-thumbnail.md)
+* [Using the Editor](beginner/using-the-editor.md)
 * [Detaching the Editor](beginner/detaching-the-editor.md)
 * [Creating Files and Folders](beginner/creating-files-and-folders.md)
 * [Importing and Exporting Files](beginner/importing-and-exporting-files.md)
@@ -33,17 +33,16 @@ Welcome to the [Beaker Browser](https://beakerbrowser.com) documentation!
 
 * [beaker.capabilities](apis/beaker.capabilities.md). Create temporary, revocable URLs which map to hyperdrives.
 * [beaker.contacts](apis/beaker.contacts.md). Read and manage the user's address book.
-* [beaker.hyperdrive](apis/beaker.hyperdrive.md). Methods to read and write hyperdrive data.
-* [beaker.markdown](apis/beaker.markdown.md). Render markdown into HTML.
+* [beaker.hyperdrive](apis/beaker.hyperdrive.md). Methods to read and write Hyperdrive data.
+* [beaker.markdown](apis/beaker.markdown.md). Render Markdown into HTML.
 * [beaker.peersockets](apis/beaker.peersockets.md). Send and receive messages to peers on a hyperdrive.
 * [beaker.shell](apis/beaker.shell.md). Global user interface methods, typically user dialogs.
-* [beaker.terminal](apis/beaker.terminal.md). Register commands in the application which are accessible from [Webterm](advanced/webterm.md).
+* [beaker.terminal](apis/beaker.terminal.md). Register commands which are accessible from [Webterm](advanced/webterm.md).
 
 ### Developers
 
 * [Introduction to Hyperdrive](developers/introduction-to-hyperdrive.md)
-* [Index.json Manifest](developers/indexjson-manifest.md). Information about the Hyperdrive manifest file, index.json.
+* [Index.json Manifest](developers/index.json-manifest.md). Information about the Hyperdrive manifest file, `index.json`.
 * [Content-Type Negotiation](developers/content-type-negotiation.md). How `hyper://` handles URLs without extensions.
 * [Frontends \(.ui folder\)](developers/frontends-.ui-folder.md). A tool to inject HTML output into every browsed resource.
-* [.Goto Files](developers/.goto-files.md). Files which act like shortcuts.
-
+* [.Goto Files](developers/goto-files.md). Files which act like shortcuts.

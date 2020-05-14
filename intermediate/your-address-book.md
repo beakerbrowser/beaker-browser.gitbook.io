@@ -6,13 +6,13 @@ The "Address Book" is a way to keep track of your contacts' profile drives. Appl
 
 Your address book is private. Unless you give access to an application, nobody else can see it.
 
-## On the Start Page
+## On the start page
 
-When you open a new tab, you can access your address book by clicking the "Address Book" link under your pinned bookmarks.
+When you open a new tab, you can access your address book by clicking on the "Address Book" link under your pinned bookmarks.
 
 ![](../.gitbook/assets/start-page-address-book.png)
 
-To add a contact, click the "+ New Contact" button.
+To add a contact, click on the "+ New Contact" button.
 
 ![](../.gitbook/assets/add-contact-dialog.png)
 
