@@ -115,7 +115,7 @@ Read the contents of a file.
 * **opts** Object \| String. If a String, will act as the 'encoding' option.
   * **encoding** String. Desired output encoding. May be 'binary', 'utf8', 'hex', or 'base64'. Default 'utf8'.
   * **timeout** Number \(ms\). How long to wait for the operation to complete before throwing a timeout error. Defaults to 60000.
-* Returns **Promise&lt;String \| ArrayBuffer&gt;**
+* Returns **Promise&lt;String \| Uint8Array&gt;**
 
 ```javascript
 var fileStr = await beaker.hyperdrive.readFile('hyper://1234..ef/foo.txt')
@@ -240,9 +240,9 @@ await beaker.hyperdrive.configure('hyper://1234..ef', {
 Write a file to the drive.
 
 * **url** String. The URL of the file to write.
-* **data** String\|ArrayBuffer. The content to write.
+* **data** String\|Uint8Array. The content to write.
 * **opts** String\|Object. If a string, acts as the encoding parameter.
-  * **encoding** String. The encoding of the data parameter. Must be 'utf8', 'base64', 'hex', or 'binary'. Defaults to 'utf8' if data is a string and 'binary' if data is an ArrayBuffer.
+  * **encoding** String. The encoding of the data parameter. Must be 'utf8', 'base64', 'hex', or 'binary'. Defaults to 'utf8' if data is a string and 'binary' if data is an Uint8Array.
   * **metadata** Object. The metadata to write to the file. Even if unspecified
   * **timeout** Number \(ms\). How long to wait for the operation to complete before throwing a timeout error. Defaults to 60000.
 * Returns **Promise&lt;Void&gt;**
@@ -250,7 +250,7 @@ Write a file to the drive.
 ```javascript
 await beaker.hyperdrive.writeFile('hyper://1234..ef/foo.txt', 'Foo')
 await beaker.hyperdrive.writeFile('hyper://1234..ef/foo.png', imgPngBase64, 'base64')
-await beaker.hyperdrive.writeFile('hyper://1234..ef/foo.jpg', imgJpgArrayBuffer, {encoding: 'binary'})
+await beaker.hyperdrive.writeFile('hyper://1234..ef/foo.jpg', imgJpgUint8Array, {encoding: 'binary'})
 await beaker.hyperdrive.writeFile('hyper://1234..ef/foo.md', '# Markdown Doc', {
   metadata: {title: 'Markdown Doc'}
 })

@@ -96,7 +96,7 @@ peerEvents.addEventListener('leave', e => {
 Emitted when a peer sends you a message on the topic.
 
 * **peerId** Number. The sending peer's identifier.
-* **message** ArrayBuffer. The message content.
+* **message** Uint8Array. The message content.
 
 ```javascript
 topic.addEventListener('message', e => {
@@ -109,7 +109,7 @@ topic.addEventListener('message', e => {
 Sends a message to the specified peer.
 
 * **peerId** Number. The target peer's identifier.
-* **message** ArrayBuffer. The message content.
+* **message** Uint8Array. The message content.
 * Returns **Void**.
 
 ```javascript

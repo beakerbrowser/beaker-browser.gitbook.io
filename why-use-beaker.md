@@ -27,3 +27,4 @@ Applications use this linkability to join data across users and apps. There are 
 ## Versioned data
 
 Hyperdrive is a versioned filesystem. You can access old revisions of files and link to pinned versions. This is helpful for referencing specific copies, viewing changes over time, and recovering from bad writes or deletes.
+

@@ -10,7 +10,7 @@ You can reach this dialog in multiple ways.
 
 ## From the Site Info button
 
-Visit the drive, then click on the Site Info button (the blue button on the left side of the address bar). Then click "Tools" and select "Drive Properties."
+Visit the drive, then click on the Site Info button \(the blue button on the left side of the address bar\). Then click "Tools" and select "Drive Properties."
 
 ![](../.gitbook/assets/drive-properties-in-siteinfo.png)
 

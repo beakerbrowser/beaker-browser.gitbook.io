@@ -151,3 +151,4 @@ Pages can export their own commands, which they define using the [beaker.termina
 ```
 
 Unlike normal Webterm commands, page commands run on the page and therefore have no special privileges. They also do not have access to the `env`, `page`, `out`, and other APIs attached to the `this` object.
+

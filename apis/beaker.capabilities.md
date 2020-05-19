@@ -12,7 +12,7 @@ The purpose of capability URLs is to provide security primitives for constrained
 
 Applications can share capability URLs with other applications \(e.g. in an `<iframe>`\) to provide temporary and constrained access.
 
-A hyperdrive capability URL uses a special `.cap` pseudo-TLD. They are formed as `hyper://{random-base32-id}.cap/`. 
+A hyperdrive capability URL uses a special `.cap` pseudo-TLD. They are formed as `hyper://{random-base32-id}.cap/`.
 
 Capability URLs are local and stored in-memory. They will be "destroyed" when the browser restarts. They are not networked and therefore cannot be shared with other users. They are able to map to a key and a drive-version, but cannot map to subfolders or files.
 
@@ -53,6 +53,4 @@ Delete a capability. Future operations against the URL will fail.
 ```javascript
 await beaker.capabilities.delete(capUrl)
 ```
-
-
 

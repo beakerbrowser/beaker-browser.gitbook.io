@@ -27,3 +27,4 @@ Right-click in the files listing \(but not on a file\) and select "Import file\(
 You can export individual files or folders by right-clicking on the file and selecting "Export."
 
 ![](../.gitbook/assets/files-explorer-export-file.png)
+

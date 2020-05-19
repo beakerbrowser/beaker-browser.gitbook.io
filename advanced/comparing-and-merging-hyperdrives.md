@@ -31,3 +31,4 @@ If you don't own the target drive, you'll see a screen like this:
 ![](../.gitbook/assets/diff-merge-not-owner.png)
 
 Send the URL to the drive owner. It will provide them with the same interface where they can review and merge the changes.
+

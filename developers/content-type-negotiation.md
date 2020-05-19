@@ -19,3 +19,4 @@ The behaviors are:
 * **text/html**. Will match `.html` and `.md`.
 * **text/css**. Will match `.css`.
 * **image/\***. Will match `.png`, `.jpg`, `.jpeg`, and `.gif`.
+

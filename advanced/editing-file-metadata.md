@@ -35,3 +35,4 @@ Change a single metadata value by entering `meta {filename} {key} {value}`
 ![](../.gitbook/assets/terminal-set-meta.png)
 
 If your value has spaces, wrap it in quotes.
+

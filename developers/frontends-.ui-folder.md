@@ -47,3 +47,4 @@ An advantage of Frontends is that they are stored in a subfolder. This makes it 
 ```
 
 Frontend hyperdrives can then be published and shared across multiple sites.
+

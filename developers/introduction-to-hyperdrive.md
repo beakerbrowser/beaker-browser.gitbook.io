@@ -78,3 +78,4 @@ See also: [stat\(\)](../apis/beaker.hyperdrive.md#beaker-hyperdrive-stat-url-opt
 ### Querying
 
 The Hyperdrive API includes a [query\(\) method](../apis/beaker.hyperdrive.md#beaker-hyperdrive-query-query) which can be used to quickly scan multiple folders. It is able to filter against paths, metadata, entry type, and mount destinations. It can also sort the output and apply limit/offset for pagination.
+

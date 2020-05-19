@@ -20,7 +20,7 @@ You will be prompted to choose a label for the fork. The label is used privately
 ![](../.gitbook/assets/fork-drive-dialog.png)
 
 {% hint style="info" %}
-You can make an independent copy of a drive (not attached to its parent) by going to the "Copy" tab.
+You can make an independent copy of a drive \(not attached to its parent\) by going to the "Copy" tab.
 {% endhint %}
 
 ## Managing forks
@@ -38,3 +38,4 @@ From the Site Info panel you can see a list of available forks. You can navigate
 You can view the forks of a hyperdrive in "My Drives" by clicking on the fork number in the listing.
 
 ![](../.gitbook/assets/my-drives-forks.png)
+

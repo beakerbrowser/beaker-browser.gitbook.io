@@ -12,3 +12,4 @@ When a `.goto` file is visited on the `hyper://` protocol, Beaker will automatic
 {% hint style="info" %}
 You can create `.goto` files using [Webterm](../advanced/webterm.md) with the **mkgoto** command.
 {% endhint %}
+
