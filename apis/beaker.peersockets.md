@@ -10,7 +10,7 @@ Peersockets enable you to send and receive messages to peers on a hyperdrive.
 
 Hyperdrive establishes connections between users to send drive-data. Peersockets piggybacks on those connections by creating additional message-channels.
 
-The peersocket channel is sepated into "topics" which are string IDs. You choose to handle to messages in a topic by "joining" the topic. If you don't join a topic, your device will still receive the messages, but they'll be discarded.
+The peersocket channel is separated into "topics" which are string IDs. You choose to handle messages in a topic by "joining" the topic. If you don't join a topic, your device will still receive the messages, but they'll be discarded.
 
 {% hint style="info" %}
 Note: topics are specific to a hyperdrive. You can only send messages to peers connected to the same hyperdrive.
