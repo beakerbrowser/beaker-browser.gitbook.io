@@ -183,7 +183,7 @@ Currently, the directory uses Twitter usernames to list profile drives, so you c
 
 You can visit the profiles by clicking on their names. If you find somebody you want to follow, click on the "Add to Address Book" button next to their name.
 
-![](.gitbook/assets/user-directory-entry.png)
+![](.gitbook/assets/user-directory-entry%20%281%29.png)
 
 ## Adding yourself to the user directory
 
